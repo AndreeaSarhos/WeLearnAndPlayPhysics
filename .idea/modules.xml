@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeLearnAndPlayPhysics-master.iml" filepath="$PROJECT_DIR$/.idea/modules/WeLearnAndPlayPhysics-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeLearnAndPlayPhysics-master.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
